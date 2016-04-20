@@ -1,0 +1,24 @@
+{
+	"nom" : "niveau3",
+	"gravite" : 125,
+	"tmpsEau" : 60,
+	"rangee" : 5,
+	"score" : 10000,
+	"poissons" :
+
+	[
+		{"couleur" : "pRouge"},
+
+		{"couleur" : "pRouge"},
+
+		{"couleur" : "pJaune"},
+
+		{"couleur" : "pVert"},
+
+		{"couleur" : "pJaune"},
+
+		{"couleur" : "pVert"}
+	]
+
+
+}

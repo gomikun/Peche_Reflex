@@ -1,0 +1,23 @@
+{
+	"niveaux" :
+	[
+		{
+			"nom":"niv 1",
+			"fichier" : "./assets/niveaux/niveau1.json",
+			"ordre" : "1"
+		},
+		{
+			"nom":"niv 2",
+			"fichier" : "./assets/niveaux/niveau2.json",
+			"ordre" : "2"
+		},
+		{
+			"nom":"niv 3",
+			"fichier" : "./assets/niveaux/niveau3.json",
+			"ordre" : "3"
+		}
+
+	]
+
+
+}
